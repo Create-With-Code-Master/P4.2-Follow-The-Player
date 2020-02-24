@@ -4,9 +4,9 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="">
+<img class="overview-image" src="assets/images/prototype-4/lesson-2-banner.png">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+In this lesson you'll be adding an opponent who will follow the player and attempt to push them over the edge of the island.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
