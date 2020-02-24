@@ -7,7 +7,7 @@ git-prev-branch:
 lesson: https://learn.unity.com/tutorial/lesson-plan-4-2-follow-the-player
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
-outcome: A textured and spherical enemy will spawn on the island at start, in a random location determined by a custom function. It will chase the player around the island, pushing them over the edge if they get too close. 
+outcome: You'll have textured and spherical opponent who spawns at a rondam location and pursues the player on the island.
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides:
 # Name and URL of repository holding the starter code for this assignment.
